@@ -17,7 +17,6 @@ Before running this project, make sure you have:
   <li>Node.js installed</li>
   <li>A Google Developer Account for OAuth setup (Google Cloud Platform)</li>
   <li>PostgreSQL installed and running</li>
-  <li></li>
 </ul>
 <hr>
 <p>Environment Variables Setup</p>
